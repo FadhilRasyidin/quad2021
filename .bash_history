@@ -8,7 +8,6 @@ ps -aux
 cat username.txt 
 cat result.txt 
 ps -aux
-sensors
 ps -aux
 cd ~
 ls

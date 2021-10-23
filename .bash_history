@@ -11,7 +11,6 @@ ps -aux
 ps -aux
 cd ~
 ls
-./screenfetch-dev 
 cd /var/tmp
 ls
 cat result.txt 

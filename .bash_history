@@ -12,14 +12,11 @@ ps -aux
 cd ~
 ls
 cd /var/tmp
-ls
 cat result.txt 
 cat result.txt 
 ps -aux
 cat username.txt 
 cat password.txt 
-cat result.txt 
-ps -aux
 cat result.txt 
 cd /var/www/html
 ls

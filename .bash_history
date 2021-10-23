@@ -23,8 +23,7 @@ ls
 cp ok.sh ok2.sh
 nano ok2.sh 
 ls
-cat ok2.sh 
-nano ok2.sh
+echo "Flag 2/3 0Sint_15"
 s
 nano ok2.sh 
 ls
